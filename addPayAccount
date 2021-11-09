@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T09:39:53.278Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="oYGlXjj2QXCOOcw45vfR" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T04:02:21.097Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="xZogISKp-O4Rw13pYpCi" version="15.7.0" type="github">
   <diagram id="6DkH0DDvp0pacESxybiF" name="Page-1">
     <mxGraphModel dx="1062" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,43 +16,19 @@
         <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-4" value="&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;发放主体&lt;br&gt;&lt;/font&gt;发薪方式(招商银行,招商对公)&lt;br&gt;发放账户&lt;br&gt;账户类型(基本户，一般户)&lt;/p&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="40" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-6" target="rjV4PwxLCDQ2_6AwKkpQ-7">
+        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-6" target="rjV4PwxLCDQ2_6AwKkpQ-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-11" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rjV4PwxLCDQ2_6AwKkpQ-5">
-          <mxGeometry x="0.0027" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-6" target="rjV4PwxLCDQ2_6AwKkpQ-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-12" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rjV4PwxLCDQ2_6AwKkpQ-10">
-          <mxGeometry x="-0.0039" relative="1" as="geometry">
+        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-46" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rjV4PwxLCDQ2_6AwKkpQ-45">
+          <mxGeometry x="-0.2366" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-6" value="根据&lt;font style=&quot;font-size: 12px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 13.3333px ; text-align: left&quot;&gt;签约主体&lt;br&gt;发放账号&lt;br&gt;&lt;/span&gt;查看是否存在" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-6" value="根据&lt;font style=&quot;font-size: 12px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 13.3333px ; text-align: left&quot;&gt;签约主体&lt;br&gt;付款类型&lt;br&gt;发放账号&lt;br&gt;&lt;/span&gt;查看是否存在" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="141" y="170" width="159" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-7" value="存在，payAccountCode为当前值" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="320" width="119.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-9" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;payAccountCode为&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-13" value="&lt;h1&gt;payAccount计算&lt;/h1&gt;&lt;div&gt;SELECT max(account_no) from salary_agency_paytype_relation WHERE agency_id=1;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="270" width="250" height="120" as="geometry" />
+        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-13" value="&lt;h1&gt;payAccount计算&lt;/h1&gt;&lt;div&gt;SELECT max(account_no)+1 from salary_agency_paytype_relation WHERE agency_id=1 and pay_type=17;&lt;br&gt;&lt;/div&gt;&lt;div&gt;默认为签约主体+001&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-20">
           <mxGeometry relative="1" as="geometry">
@@ -100,13 +76,13 @@
         <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-27" target="rjV4PwxLCDQ2_6AwKkpQ-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-27" value="配置模式3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-27" value="根据code+type&lt;br&gt;配置模式3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-28" target="rjV4PwxLCDQ2_6AwKkpQ-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-28" value="配置模式1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-28" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;根据code+type&lt;/span&gt;&lt;br&gt;配置模式1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-30">
@@ -114,17 +90,23 @@
             <mxPoint x="520" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-30" value="配置模式2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-30" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;根据code+type&lt;/span&gt;&lt;br&gt;配置模式2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-35" target="rjV4PwxLCDQ2_6AwKkpQ-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-35" value="插入模式表&lt;br&gt;插入配置表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-35" value="插入模式表&lt;br&gt;插入relation配置表&lt;br&gt;插入erp配置表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="960" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-37" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-44" target="rjV4PwxLCDQ2_6AwKkpQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-44" value="赋值code" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
