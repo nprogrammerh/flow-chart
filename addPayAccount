@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T04:02:48.821Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="L8yb_XZZ1KtkENX1B-DP" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T08:05:34.217Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="--mc62d6U-lxn0hGPmtN" version="15.7.0" type="github">
   <diagram id="6DkH0DDvp0pacESxybiF" name="Page-1">
-    <mxGraphModel dx="1062" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2124" dy="2413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-2" value="新增配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="40" width="60" height="30" as="geometry" />
+          <mxGeometry x="92.5" y="-90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-3" target="rjV4PwxLCDQ2_6AwKkpQ-6">
+        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-3" target="rjV4PwxLCDQ2_6AwKkpQ-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="167.5" y="55" width="120" height="60" as="geometry" />
+          <mxGeometry x="167.5" y="-75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-4" value="&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;发放主体&lt;br&gt;&lt;/font&gt;发薪方式(招商银行,招商对公)&lt;br&gt;发放账户&lt;br&gt;账户类型(基本户，一般户)&lt;/p&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="40" width="180" height="90" as="geometry" />
+          <mxGeometry x="320" y="-75" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-6" target="rjV4PwxLCDQ2_6AwKkpQ-44">
           <mxGeometry relative="1" as="geometry" />
@@ -93,20 +93,40 @@
         <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-30" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;根据code+type&lt;/span&gt;&lt;br&gt;配置模式2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-35" target="rjV4PwxLCDQ2_6AwKkpQ-37">
+        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-35" target="rjV4PwxLCDQ2_6AwKkpQ-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-35" value="插入模式表&lt;br&gt;插入relation配置表&lt;br&gt;插入erp配置表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="960" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-37" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-44" target="rjV4PwxLCDQ2_6AwKkpQ-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-44" value="赋值code" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-48" target="rjV4PwxLCDQ2_6AwKkpQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-53" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rjV4PwxLCDQ2_6AwKkpQ-52">
+          <mxGeometry x="-0.3192" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-48" value="是否锁定状态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="35" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-49" value="增加签约主体 维度的 Redis锁" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjV4PwxLCDQ2_6AwKkpQ-54" target="rjV4PwxLCDQ2_6AwKkpQ-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rjV4PwxLCDQ2_6AwKkpQ-54" value="删除锁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
