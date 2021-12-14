@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T12:09:35.684Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="LYZSnF4JfktZTsrCgI47" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T12:48:15.773Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Ew84LJ5b4mc0G_KPOQnf" version="15.9.6" type="github">
   <diagram id="L7oQi8l4PwvumyZx8vqX" name="Page-1">
     <mxGraphModel dx="1062" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -7,11 +7,14 @@
         <mxCell id="4Zz9R7_NnF3RlAq_7tvv-12" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font face=&quot;chinese quote, segoe ui, roboto, pingfang sc, hiragino sans gb, microsoft yahei, helvetica neue, helvetica, arial, sans-serif, apple color emoji&quot;&gt;&lt;span style=&quot;font-size: 12px ; letter-spacing: 0.7px&quot;&gt;&lt;br&gt;支付宝网关&lt;br&gt;&lt;/span&gt;&lt;/font&gt;账号&lt;br&gt;&lt;font face=&quot;chinese quote, segoe ui, roboto, pingfang sc, hiragino sans gb, microsoft yahei, helvetica neue, helvetica, arial, sans-serif, apple color emoji&quot;&gt;&lt;span style=&quot;letter-spacing: 0.7px&quot;&gt;应用ID&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;letter-spacing: 0.7px&quot;&gt;应用名称&lt;br&gt;&lt;/span&gt;证书使用方式&lt;br&gt;应用私钥&lt;br&gt;应用公钥&lt;br&gt;支付宝公钥&lt;br&gt;支付宝根证书&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="160" width="110" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="4Zz9R7_NnF3RlAq_7tvv-15" value="账号&lt;br&gt;appid&lt;br&gt;商户号&lt;br&gt;商户证书序列号&lt;br&gt;APIv3密钥&lt;br&gt;私钥(微信批量支付使用)&lt;br&gt;p12证书key(微信单笔支付用)" style="html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="4Zz9R7_NnF3RlAq_7tvv-15" value="网关&lt;br&gt;账号&lt;br&gt;appid&lt;br&gt;商户号&lt;br&gt;商户证书序列号&lt;br&gt;APIv3密钥&lt;br&gt;私钥(微信批量支付使用)&lt;br&gt;p12证书key(微信单笔支付用)" style="html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="230" y="150" width="170" height="230" as="geometry" />
         </mxCell>
         <mxCell id="4Zz9R7_NnF3RlAq_7tvv-16" value="账号&lt;br&gt;ip&lt;br&gt;用户名&lt;br&gt;密码" style="html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="490" y="160" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zz9R7_NnF3RlAq_7tvv-18" value="Object" style="html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="140" y="470" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
