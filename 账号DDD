@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T09:03:34.348Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="5giDTNzQ6zf2ynOc9PaS" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T10:05:19.745Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="9yHgV8A9k2dZldDamPDD" version="15.9.6" type="github">
   <diagram id="NqtlGUFBy163ntN-RX0w" name="Page-1">
     <mxGraphModel dx="1062" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,13 +14,13 @@
           <mxGeometry x="520" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8rsEIPUBcYzuuTzUjr5r-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-300" width="460" height="380" as="geometry" />
+          <mxGeometry x="150" y="-300" width="700" height="360" as="geometry" />
         </mxCell>
         <mxCell id="8rsEIPUBcYzuuTzUjr5r-6" value="账号域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="-320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8rsEIPUBcYzuuTzUjr5r-7" value="账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-70" width="120" height="80" as="geometry" />
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-7" value="账号(用户)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8rsEIPUBcYzuuTzUjr5r-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="260" width="280" height="180" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="380" y="510" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8rsEIPUBcYzuuTzUjr5r-21" value="公司主体" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="520" width="60" height="40" as="geometry" />
+          <mxGeometry x="615" y="500" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8rsEIPUBcYzuuTzUjr5r-22" value="账户类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="580" width="60" height="40" as="geometry" />
@@ -69,6 +69,105 @@
         </mxCell>
         <mxCell id="8rsEIPUBcYzuuTzUjr5r-24" value="发放账户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="565" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="810" width="751" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-26" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1170" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-27" value="查证域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-28" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="900" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-29" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="900" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-30" value="查证信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1020" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8rsEIPUBcYzuuTzUjr5r-30" target="8rsEIPUBcYzuuTzUjr5r-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-32" value="业务参考号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="931.5" width="60" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-36" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="950" width="70" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-37" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="938.5" width="70" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-38" value="账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1205" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-39" value="是否有效" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1150" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-40" value="公司主体" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="1140" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-41" value="账户类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-42" value="秘钥信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1018" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-43" value="发放账户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="170" width="500" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-46" value="回单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-47" value="流水单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-49" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-245" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-50" value="权限" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-51" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-230" width="350" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-52" value="auth" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-54" value="发薪功能" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-55" value="查证&lt;span style=&quot;font-size: 13.3333px&quot;&gt;功能&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="-220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-56" value="回调&lt;span style=&quot;font-size: 13.3333px&quot;&gt;功能&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-57" value="回单&lt;span style=&quot;font-size: 13.3333px&quot;&gt;功能&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-58" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-210" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-59" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-207.5" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-61" value="是否可用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-30" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-62" value="生效时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-200" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-63" value="失效时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-140" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-65" value="类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="-20" width="85" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
