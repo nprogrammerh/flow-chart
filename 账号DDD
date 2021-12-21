@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T10:08:49.966Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="jVC38D34rslDzgxKd_l3" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T11:58:49.599Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="koDhSE8UekTatrXZ-Snh" version="15.9.6" type="github">
   <diagram id="NqtlGUFBy163ntN-RX0w" name="Page-1">
     <mxGraphModel dx="1062" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,6 +168,63 @@
         </mxCell>
         <mxCell id="8rsEIPUBcYzuuTzUjr5r-65" value="类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="10" width="67.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-66" value="账号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-67" value="发薪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-68" value="查证&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-69" value="下载回单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1850" width="1000" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1970" width="1000" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2170" width="1000" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-77" value="基础设施层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="1885" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-78" value="应用层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="2055" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-79" value="领域层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="2230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-80" value="PaymentController" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-81" value="PayService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-82" value="Account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-83" value="AccountDao" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-84" value="zfbUtil" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-85" value="weChatUtil" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-86" value="cmbUtil" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-87" value="accountRepository" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-88" value="&lt;span style=&quot;color: rgb(64 , 64 , 64) ; font-family: , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;ACL防腐层&lt;/span&gt;&lt;br&gt;safeService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="2040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
