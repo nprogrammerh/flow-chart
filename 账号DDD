@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T08:52:12.535Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="PoRPogJP7Zb1FOAqQstf" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T08:52:49.094Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="hOMxZOOg0ZCgXb8Yvenv" version="15.9.6" type="github">
   <diagram id="NqtlGUFBy163ntN-RX0w" name="Page-1">
     <mxGraphModel dx="1062" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="8rsEIPUBcYzuuTzUjr5r-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="140" width="751" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="8rsEIPUBcYzuuTzUjr5r-3" value="支出信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-3" value="账户信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8rsEIPUBcYzuuTzUjr5r-4" value="发薪域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
