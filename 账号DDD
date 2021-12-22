@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T09:27:05.293Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="pxK50UHvibf1LFwYlAP8" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T09:29:05.176Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="SFnT2vzICqMbGj5neJ0r" version="15.9.6" type="github">
   <diagram id="NqtlGUFBy163ntN-RX0w" name="Page-1">
     <mxGraphModel dx="1062" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -401,9 +401,6 @@
         </mxCell>
         <mxCell id="8rsEIPUBcYzuuTzUjr5r-129" value="日志管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="2910" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8rsEIPUBcYzuuTzUjr5r-130" value="管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="940" y="2690" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8rsEIPUBcYzuuTzUjr5r-131" value="渠道配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="2740" width="80" height="50" as="geometry" />
