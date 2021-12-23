@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T10:01:45.843Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="WtjF8BmoV9gWN2S4aGVc" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T10:04:45.813Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="kvXe2qOTh9Vt0dDzTBdK" version="16.0.3" type="github">
   <diagram id="NqtlGUFBy163ntN-RX0w" name="Page-1">
     <mxGraphModel dx="782" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -390,10 +390,10 @@
         <mxCell id="8rsEIPUBcYzuuTzUjr5r-125" value="订单管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="2740" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8rsEIPUBcYzuuTzUjr5r-126" value="退款记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-126" value="退款记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="960" y="2740" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8rsEIPUBcYzuuTzUjr5r-127" value="资金调拨" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-127" value="&lt;font color=&quot;#e6e6e6&quot;&gt;资金调拨&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="2817.5" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="8rsEIPUBcYzuuTzUjr5r-128" value="账户管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -408,7 +408,7 @@
         <mxCell id="8rsEIPUBcYzuuTzUjr5r-132" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="2910" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8rsEIPUBcYzuuTzUjr5r-133" value="数据统计" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8rsEIPUBcYzuuTzUjr5r-133" value="&lt;font color=&quot;#cccccc&quot;&gt;数据统计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="2818" width="80" height="52" as="geometry" />
         </mxCell>
         <mxCell id="8rsEIPUBcYzuuTzUjr5r-134" value="回调通知" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
