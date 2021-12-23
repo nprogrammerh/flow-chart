@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T09:38:36.044Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="CHRzw9gR8-CwM_9PFwxm" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T09:59:43.267Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="X8Nbc58uFYBNSBBHk0gG" version="16.0.3" type="github">
   <diagram id="NqtlGUFBy163ntN-RX0w" name="Page-1">
-    <mxGraphModel dx="1056" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -462,7 +462,7 @@
         <mxCell id="_p69tGZonGum-vobmmCJ-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1770" y="3330" width="260" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="_p69tGZonGum-vobmmCJ-14" value="退汇单" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;direction=west;" vertex="1" parent="1">
+        <mxCell id="_p69tGZonGum-vobmmCJ-14" value="订单明细" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;direction=west;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1850" y="3460" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-15" value="功能应用" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
@@ -621,7 +621,7 @@
         <mxCell id="_p69tGZonGum-vobmmCJ-79" value="回调通知" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="705" y="3650" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_p69tGZonGum-vobmmCJ-80" value="订单" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="_p69tGZonGum-vobmmCJ-80" value="订单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="710" y="3975" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-83" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
@@ -672,7 +672,7 @@
         <mxCell id="_p69tGZonGum-vobmmCJ-102" value="明细回单" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1202.25" y="3750" width="62" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_p69tGZonGum-vobmmCJ-103" value="订单" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="_p69tGZonGum-vobmmCJ-103" value="订单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1255.75" y="3975" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-104" value="批次回单" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
@@ -681,14 +681,14 @@
         <mxCell id="_p69tGZonGum-vobmmCJ-105" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1620" y="3710" width="390" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="_p69tGZonGum-vobmmCJ-106" value="流水" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="_p69tGZonGum-vobmmCJ-106" value="流水" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1780" y="3940" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-107" value="流水单" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1875" y="3905" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-108" value="流水号" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="3925" width="65" height="35" as="geometry" />
+          <mxGeometry x="1644" y="3885" width="65" height="35" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-111" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="830" y="3375" width="60" height="40" as="geometry" />
@@ -701,6 +701,15 @@
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-114" value="流水" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1795" y="3700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_p69tGZonGum-vobmmCJ-115" value="退票code" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="3425" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_p69tGZonGum-vobmmCJ-117" value="退票信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1785" y="3417.5" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_p69tGZonGum-vobmmCJ-118" value="金额" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="3922.5" width="65" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
