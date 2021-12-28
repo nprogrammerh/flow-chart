@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T05:57:54.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ej_BdXg25nEZqA_5UCU-" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T10:58:13.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ZJWHIF9jVxmAxSTdEFC9" version="16.0.3" type="github">
   <diagram id="NqtlGUFBy163ntN-RX0w" name="Page-1">
-    <mxGraphModel dx="945" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="1722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -466,10 +466,10 @@
           <mxGeometry x="1060" y="3300" width="360" height="230" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="3330" width="260" height="180" as="geometry" />
+          <mxGeometry x="2068" y="3357" width="260" height="180" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-14" value="订单明细" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;direction=west;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1850" y="3460" width="100" height="50" as="geometry" />
+          <mxGeometry x="2148" y="3487" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-15" value="功能应用" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1202.25" y="3485" width="77.75" height="40" as="geometry" />
@@ -514,7 +514,7 @@
           <mxGeometry x="1181.25" y="3250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-32" value="退汇单聚合" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1865" y="3310" width="70" height="30" as="geometry" />
+          <mxGeometry x="2163" y="3337" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-33" value="订单通知" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="499" y="4130" width="60" height="30" as="geometry" />
@@ -664,10 +664,10 @@
           <mxGeometry x="1795" y="3700" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-115" value="退票code" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1940" y="3425" width="60" height="35" as="geometry" />
+          <mxGeometry x="2238" y="3452" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-117" value="退票信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1785" y="3417.5" width="60" height="35" as="geometry" />
+          <mxGeometry x="2083" y="3444.5" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-120" value="创建时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1968" y="4250" width="60" height="30" as="geometry" />
@@ -750,10 +750,10 @@
         <mxCell id="_p69tGZonGum-vobmmCJ-151" value="支付订单号" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="645" y="5940" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_p69tGZonGum-vobmmCJ-153" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;simsun&amp;#34; , ; background-color: rgba(22 , 118 , 255 , 0.1)&quot;&gt;支付宝支付资金流水号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="_p69tGZonGum-vobmmCJ-153" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;simsun&amp;#34; , ; background-color: rgba(22 , 118 , 255 , 0.1)&quot;&gt;支付资金流水号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="617.5" y="5781" width="75" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="_p69tGZonGum-vobmmCJ-154" value="商户订单号" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="_p69tGZonGum-vobmmCJ-154" value="支付订单明细号" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="640" y="5845" width="72.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-155" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
@@ -763,7 +763,7 @@
           <mxGeometry x="1242.75" y="5940" width="92" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-157" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1062.75" y="5723" width="215" height="160" as="geometry" />
+          <mxGeometry x="1062.75" y="5680" width="217.25" height="203" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-158" value="功能应用" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="1124.5" y="5842.5" width="77.75" height="40" as="geometry" />
@@ -820,7 +820,7 @@
           <mxGeometry x="502.5" y="6270" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-177" value="业务参考号" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="593.5" y="6210" width="80" height="40" as="geometry" />
+          <mxGeometry x="593.5" y="6280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-178" value="查证渠道" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="488" y="6210" width="95" height="50" as="geometry" />
@@ -927,15 +927,12 @@
           <mxGeometry x="1265" y="6145" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-250" value="&lt;font color=&quot;#000000&quot;&gt;时间&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontColor=#97D077;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="605" y="6280" width="85" height="60" as="geometry" />
+          <mxGeometry x="680" y="6190" width="85" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_p69tGZonGum-vobmmCJ-252" value="1.根据类型获取秘钥" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="_p69tGZonGum-vobmmCJ-252" value="1.根据类型获取秘钥&lt;br&gt;2.校验是否失效" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1455" y="5610" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_p69tGZonGum-vobmmCJ-256" value="状态" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="409.5" y="5816" width="50.5" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="_p69tGZonGum-vobmmCJ-259" value="1.校验" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="_p69tGZonGum-vobmmCJ-259" value="1.校验&lt;br&gt;2.计算总金额" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="760" y="5585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-260" value="" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
@@ -948,12 +945,12 @@
           <mxGeometry x="445" y="6710" width="165" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-263" value="账号秘钥" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="368" y="6760" width="62" height="40" as="geometry" />
+          <mxGeometry x="388" y="6780" width="62" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_p69tGZonGum-vobmmCJ-264" value="招商云直联发薪单聚合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="_p69tGZonGum-vobmmCJ-264" value="招商云直联发薪单领域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="455" y="6650" width="125" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_p69tGZonGum-vobmmCJ-265" value="1.发薪&lt;br&gt;2.校验参数&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="_p69tGZonGum-vobmmCJ-265" value="1.发薪&lt;br&gt;2.校验参数&lt;br&gt;3.发送事件" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="700" y="6670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-266" value="收款人" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
@@ -964,6 +961,27 @@
         </mxCell>
         <mxCell id="_p69tGZonGum-vobmmCJ-268" value="收款金额" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="546" y="6765" width="44" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_p69tGZonGum-vobmmCJ-269" value="订单编号" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="547.5" y="6810" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_p69tGZonGum-vobmmCJ-270" value="1.启用&lt;br&gt;2.禁用&lt;br&gt;3.更改密码" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="5853" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_p69tGZonGum-vobmmCJ-271" value="账户" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1107" y="5700" width="58" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_p69tGZonGum-vobmmCJ-272" value="" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="943" y="6680" width="307" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_p69tGZonGum-vobmmCJ-273" value="业务参考号" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1017" y="6720" width="73" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_p69tGZonGum-vobmmCJ-274" value="账号秘钥" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="6730" width="62" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_p69tGZonGum-vobmmCJ-275" value="云直联发薪域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="6670" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
