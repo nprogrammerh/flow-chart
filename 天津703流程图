@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T06:56:04.383Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="GjtLr-dASW8eOSKKboQU" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T06:59:34.255Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="3WgNZPU3yF2YPrsizwDv" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2632" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2805" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -53,7 +53,7 @@
           <mxGeometry x="535" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-11" value="&lt;a style=&quot;font-size: medium; text-align: start;&quot; name=&quot;_Toc110951113&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;产品任务分配&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;text-align: start; font-size: 10.5pt; font-family: 宋体;&quot;&gt;档案(一级任务分解配置)&lt;br&gt;一级产品ID，二级产品ID&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="740" y="210" width="280" height="50" as="geometry" />
+          <mxGeometry x="750" y="230" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-12" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="CJqfTUD4EH49o1rZ8MHN-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -85,7 +85,7 @@
           <mxGeometry x="535" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-16" value="&lt;span style=&quot;text-align: start; font-size: 10.5pt; font-family: 宋体;&quot;&gt;产品工序管理(二级任务分解配置)&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="712.5" y="330" width="250" height="40" as="geometry" />
+          <mxGeometry x="720" y="380" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-17" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="CJqfTUD4EH49o1rZ8MHN-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-52" value="一级任务分解再加上计划数目 也就是发次" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="780" y="140" width="130" height="30" as="geometry" />
+          <mxGeometry x="880" y="200" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o1rXBbIE6vtaKptsNYHo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CJqfTUD4EH49o1rZ8MHN-56" target="CJqfTUD4EH49o1rZ8MHN-57">
           <mxGeometry relative="1" as="geometry" />
