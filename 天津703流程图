@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T03:11:39.284Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="GWAAsrg8zpcz5OXM7z1I" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T03:15:49.342Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="QGdpIYm-yYj0D9kbXpe3" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1223" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CJqfTUD4EH49o1rZ8MHN-2" value="一级任务&lt;br&gt;(产品ID，计划数目)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="CJqfTUD4EH49o1rZ8MHN-2" value="一级任务&lt;br&gt;(一级产品ID，计划数目)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="535" y="180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-3" value="&lt;span style=&quot;font-weight: 400; text-align: start; font-size: 10.5pt; font-family: Calibri, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;Emis&lt;/span&gt;&lt;span style=&quot;font-size: medium; font-weight: 400; text-align: start;&quot;&gt;&lt;/span&gt;" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -49,11 +49,11 @@
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CJqfTUD4EH49o1rZ8MHN-8" target="CJqfTUD4EH49o1rZ8MHN-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CJqfTUD4EH49o1rZ8MHN-8" value="二级任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="CJqfTUD4EH49o1rZ8MHN-8" value="二级任务&lt;br&gt;二级产品ID，" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="535" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CJqfTUD4EH49o1rZ8MHN-11" value="&lt;a style=&quot;font-size: medium; text-align: start;&quot; name=&quot;_Toc110951113&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;产品任务分配&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;text-align: start; font-size: 10.5pt; font-family: 宋体;&quot;&gt;档案(一级任务分解配置)&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="712.5" y="130" width="280" height="40" as="geometry" />
+        <mxCell id="CJqfTUD4EH49o1rZ8MHN-11" value="&lt;a style=&quot;font-size: medium; text-align: start;&quot; name=&quot;_Toc110951113&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;产品任务分配&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;text-align: start; font-size: 10.5pt; font-family: 宋体;&quot;&gt;档案(一级任务分解配置)&lt;br&gt;产品ID，&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="712.5" y="125" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-12" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" target="CJqfTUD4EH49o1rZ8MHN-11" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
