@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T03:40:21.445Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="MPLRf1odftP1kBRgHJH3" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T06:29:05.449Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="cIlq2JdzmPAdSOgi3uoi" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1223" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2050" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -162,6 +162,15 @@
         </mxCell>
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-52" value="一级任务分解再加上计划数目 也就是发次" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="140" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CJqfTUD4EH49o1rZ8MHN-56" value="工控网" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-350" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CJqfTUD4EH49o1rZ8MHN-57" value="执行子任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-520" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CJqfTUD4EH49o1rZ8MHN-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-650" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
