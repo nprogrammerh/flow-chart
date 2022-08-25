@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T03:38:05.417Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="_vTESBunNlarz3oRwqN_" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T03:40:21.445Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="MPLRf1odftP1kBRgHJH3" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1223" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
           <mxGeometry x="535" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-11" value="&lt;a style=&quot;font-size: medium; text-align: start;&quot; name=&quot;_Toc110951113&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;产品任务分配&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;text-align: start; font-size: 10.5pt; font-family: 宋体;&quot;&gt;档案(一级任务分解配置)&lt;br&gt;一级产品ID，二级产品ID&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="712.5" y="125" width="280" height="50" as="geometry" />
+          <mxGeometry x="740" y="210" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-12" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" target="CJqfTUD4EH49o1rZ8MHN-11" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -159,6 +159,9 @@
             <mxPoint x="540" y="570" as="sourcePoint" />
             <mxPoint x="370" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CJqfTUD4EH49o1rZ8MHN-52" value="一级任务分解再加上计划数目 也就是发次" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="780" y="140" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
