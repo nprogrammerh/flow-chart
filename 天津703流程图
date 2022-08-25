@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T03:15:49.342Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="QGdpIYm-yYj0D9kbXpe3" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T03:19:50.126Z" agent="5.0 (Macintosh; Intel Mac OS X -1_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="3PKg-snBgqJjJPlt89Zi" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1223" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-8" value="二级任务&lt;br&gt;二级产品ID，" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="535" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CJqfTUD4EH49o1rZ8MHN-11" value="&lt;a style=&quot;font-size: medium; text-align: start;&quot; name=&quot;_Toc110951113&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;产品任务分配&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;text-align: start; font-size: 10.5pt; font-family: 宋体;&quot;&gt;档案(一级任务分解配置)&lt;br&gt;产品ID，&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="CJqfTUD4EH49o1rZ8MHN-11" value="&lt;a style=&quot;font-size: medium; text-align: start;&quot; name=&quot;_Toc110951113&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;产品任务分配&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;text-align: start; font-size: 10.5pt; font-family: 宋体;&quot;&gt;档案(一级任务分解配置)&lt;br&gt;一级产品ID，二级产品ID&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="712.5" y="125" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-12" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" target="CJqfTUD4EH49o1rZ8MHN-11" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -81,7 +81,7 @@
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CJqfTUD4EH49o1rZ8MHN-13" target="CJqfTUD4EH49o1rZ8MHN-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CJqfTUD4EH49o1rZ8MHN-13" value="二级排产子任务" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="CJqfTUD4EH49o1rZ8MHN-13" value="二级排产子任务&lt;br&gt;二级产品ID," style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="535" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-16" value="&lt;span style=&quot;text-align: start; font-size: 10.5pt; font-family: 宋体;&quot;&gt;产品工序管理(二级任务分解配置)&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -95,8 +95,8 @@
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-18" value="生成二级子任务&lt;br&gt;质控卡" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CJqfTUD4EH49o1rZ8MHN-21" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;质控卡模版维护&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="810" y="1110" width="140" height="30" as="geometry" />
+        <mxCell id="CJqfTUD4EH49o1rZ8MHN-21" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;质控卡模版维护&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;产品工序，指控卡工序，工步&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="835" y="1100" width="205" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-22" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="CJqfTUD4EH49o1rZ8MHN-21">
           <mxGeometry relative="1" as="geometry">
@@ -124,7 +124,7 @@
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CJqfTUD4EH49o1rZ8MHN-31" target="CJqfTUD4EH49o1rZ8MHN-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CJqfTUD4EH49o1rZ8MHN-31" value="二级执行子任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="CJqfTUD4EH49o1rZ8MHN-31" value="二级执行子任务&lt;br&gt;(哪些字段？)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CJqfTUD4EH49o1rZ8MHN-37" value="生产许可证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
